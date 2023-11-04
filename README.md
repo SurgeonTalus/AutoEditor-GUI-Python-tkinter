@@ -28,4 +28,4 @@ This project is based on [Auto-Editor](https://auto-editor.com), which is a tool
 
 If you encounter any issues or have questions, please visit the Auto-Editor website or the original project's repository for support.
 
-[![Auto-Editor](https://auto-editor.com/logo.png)](https://auto-editor.com)
+![AutoEditor GUI](https://raw.githubusercontent.com/SurgeonTalus/AutoEditor-GUI-Python-tkinter/main/autoeditorgui.png)
