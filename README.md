@@ -1,17 +1,31 @@
 # AutoEditor-GUI-Python-tkinter
-AutoEditor-GUI-Python+tkinter
 
-RUN:
-pip install auto-editor
+AutoEditor-GUI-Python+tkinter is a graphical user interface for the Auto-Editor tool, which is used to automate video editing processes.
 
-IMAGE:
+## Getting Started
 
-Give auto-editorGUI premissions in accesebility in system security settings. 
+To use the AutoEditor-GUI, follow these steps:
 
-Run: auto-editorGUI.app
+1. Install the `auto-editor` Python package using pip: pip install auto-editor
+ 
+2. Ensure that AutoEditor-GUI has the necessary accessibility permissions in your system security settings.
 
-Chooose folder. Choose Create bulk sequential file.
+3. Run the `auto-editorGUI.app` file.
 
-BUGS: FolderName and FileNames can not have spaces. 
+4. Choose a folder where you want to apply bulk sequential video editing.
 
-CREDITS: https://auto-editor.com
+5. Choose the "Create bulk sequential file" option.
+
+## Bugs
+
+Please note that there are certain limitations and known issues with the application:
+
+- Folder names and file names cannot contain spaces.
+
+## Credits
+
+This project is based on [Auto-Editor](https://auto-editor.com), which is a tool for automating video editing processes. Be sure to check out the original project for more details.
+
+If you encounter any issues or have questions, please visit the Auto-Editor website or the original project's repository for support.
+
+[![Auto-Editor](https://auto-editor.com/logo.png)](https://auto-editor.com)
