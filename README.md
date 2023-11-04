@@ -21,6 +21,7 @@ To use the AutoEditor-GUI, follow these steps:
 Please note that there are certain limitations and known issues with the application:
 
 - Folder names and file names cannot contain spaces.
+- Mac OS sonoma turns the videos upside down for some reason. Easy to rotate in finder in post. 
 
 ## Credits
 
